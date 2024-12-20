@@ -1,0 +1,489 @@
+* {
+    box-sizing: border-box;
+  }
+body {
+    width: 1440px;
+    display: block;
+    margin: 0 auto;
+    font-family: "MuseoSansCyrl";
+    font-weight: 500;
+    position: relative;
+    background: rgb(125, 141, 154);
+    overflow-x: hidden;
+
+  }
+section {
+    z-index: 5;
+    border-color: white;
+    box-sizing: border-box;
+    border-style: solid;
+    border: 3px solid white;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+}
+.cirlce1 {
+    border-radius: 100%;
+    position: absolute;
+width: 133px;
+height: 133px;
+left: 69px;
+top: 44px;
+box-sizing: border-box;
+border: 3px solid rgb(0, 0, 0);
+background: rgb(224, 152, 44);
+}
+.header h1{
+    position: absolute;
+    top: 228px;
+    left: 69px;
+right: 728.23px;
+    color: rgb(0, 0, 0);
+    font-family: "MuseoSansCyrl900";
+    font-size: 170px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.h1 {
+    position: absolute;
+    left: 510px;
+    width: 910px;
+}
+.flower {
+    position: absolute;
+    left: 69px;
+right: 1148.69px;
+top: 1050px;
+}
+.block2_txt {
+    position: absolute;
+    height: 445px;
+left: 100px;
+top: 1409px;
+
+    color: rgb(0, 0, 0);
+    font-family: "MuseoSansCyrl300";
+font-size: 34px;
+font-weight: 250;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.c1 {
+/* Ellipse 157 */
+position: absolute;
+width: 163px;
+height: 163px;
+left: 201px;
+top: 2941px;
+box-sizing: border-box;
+border: 3px solid rgb(0, 0, 0);
+background: rgb(189, 80, 33);
+border-radius: 100%;
+}
+.c2 {
+    border-radius: 100%; 
+    /* Ellipse 158 */
+position: absolute;
+width: 147px;
+height: 147px;
+left: 483px;
+top: 2985px;
+box-sizing: border-box;
+border: 3px solid rgb(0, 0, 0);
+background: rgb(224, 163, 56);
+}
+.c3 {
+    background: rgb(0, 0, 0);
+    /* Ellipse 185 */
+position: absolute;
+width: 39px;
+height: 39px;
+left: 720px;
+top: 3093px;
+
+border-radius: 100%; 
+}
+.c4 {
+
+    border-radius: 100%; 
+position: absolute;
+width: 117px;
+height: 117px;
+left: 1278px;
+top: 2955px;
+box-sizing: border-box;
+border: 3px solid rgb(0, 0, 0);
+background: rgb(224, 163, 56);
+}
+
+.block3 h2 {
+    /* Особенности шрифта */
+position: absolute;
+width: 100%;
+height: 32px;
+left: 78px;
+top: 3356px;
+    color: rgb(0, 0, 0);
+    font-family: "MuseoSansCyrl700";
+font-size: 32px;
+font-weight: 400;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.k1 {
+    /* Ellipse 156 */
+position: absolute;
+width: 481px;
+height: 292px;
+left: 467px;
+top: 3383px;
+    background: rgb(217, 217, 217);
+    border-radius: 100%;
+}
+.k2 {
+    /* Ellipse 156 */
+position: absolute;
+width: 481px;
+height: 292px;
+left: 100px;
+top: 3654px;
+    background: rgb(217, 217, 217);
+    border-radius: 100%;
+}
+.k3 {
+    /* Ellipse 156 */
+position: absolute;
+width: 481px;
+height: 292px;
+left: 881px;
+top: 3654px;
+    background: rgb(217, 217, 217);
+    border-radius: 100%;
+}
+
+.buk {
+    position: relative;
+    left: 80px;
+    top: 20px;
+    font-size: 235px;
+    font-family: "MuseoSansCyrl900";
+
+}
+
+.buk2 {
+    top: -50px;
+    left: 135px;
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-family: "MuseoSansCyrl300";
+font-size: 32px;
+font-weight: 300;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.b2 {
+    margin-left: 35px;
+}
+.b3 {
+    text-align: center;
+    margin-left: -220px;
+}
+
+.sp1 {
+    font-family: "MuseoSansCyrl100";
+}
+.sp2 {
+    font-family: "MuseoSansCyrl300";
+}
+.sp3 {
+    font-family: "MuseoSansCyrl500"; 
+}
+.sp4 {
+    font-family: "MuseoSansCyrl700";
+}
+.sp5 {
+    font-family: "MuseoSansCyrl900Blod";
+}
+
+.zw {
+    /* Group 11 */
+position: absolute;
+width: 620px;
+height: 620.17px;
+left: 100px;
+right: 720px;
+top: 4393px;
+bottom: 7576.83px;
+    position: absolute;
+}
+.zw_txt {
+    position: absolute;
+    left: 766px;
+top: 4588px;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0%;
+text-align: left;
+}
+.block4 h2 {
+    position: absolute;
+    left: 78px;
+    top: 4151px;
+    color: rgb(0, 0, 0);
+    font-family: "MuseoSansCyrl700";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.ramka {
+    top: 5273.46px;
+    position: absolute;
+}
+.meseo {
+    letter-spacing: 20px;
+    font-size: 170px;
+    left: 79px;
+    top: 5416px;
+    position: absolute;
+    font-family: "MuseoSansCyrl100";
+    color: rgb(226, 25, 25);
+}
+.sans {
+    font-size: 170px;
+    left: 557px;
+    top: 5574px;
+    position: absolute;
+    color: rgb(208, 190, 166);
+    font-family: "MuseoSansCyrl300";
+}
+
+.cyrillic {
+    font-size: 160px;
+    position: absolute;
+    left: 801px;
+    top: 5728px;
+    font-family: "MuseoSansCyrl900";
+    color: rgb(88, 103, 115);
+}
+
+.spk1 {
+    font-family: "MuseoSansCyrl100Italic";
+}
+.spk2 {
+    font-family: "MuseoSansCyrl300italic";
+}
+.spk3 {
+    font-family: "MuseoSansCyrl500italic";
+}
+.spk4 {
+    font-family: "MuseoSansCyrl700italic";
+}
+.spk5 {
+    font-family: "MuseoSansCyrl900";
+}
+
+.zw_txt2 {
+    position: absolute;
+    left: 79px;
+    top: 6328px;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+
+text-align: left;
+}
+.block6 h1 {
+    position: absolute;
+    left: 78px;
+    top: 6155px;
+    color: rgb(0, 0, 0);
+    font-family: "MuseoSansCyrl700";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.bl6img {
+    top: 6300.33px;
+    position: absolute;
+    left: 753.62px;
+}
+.block7 h1{
+    position: absolute;
+    left: 78px;
+    top: 7043px;
+    color: rgb(0, 0, 0);
+    font-family: "MuseoSansCyrl700";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.num {
+    top: 7185.37px;
+    position: absolute;
+    left: 148px;
+}
+
+.pom {
+    left: 1120px;
+top: 7279px;
+    position: absolute;
+}
+
+.kniga {
+    position: absolute;
+    left: 326px;
+top: 7510px;
+}
+
+.block7 h2{
+    font-family: "MuseoSansCyrl500";
+    z-index: 2;
+    font-size: 90px;
+    position: absolute;
+    color: black;
+    left: 442px;
+top: 7734.08px;
+}
+.block7 h3 {
+    font-size: 35px;
+    font-family: "MuseoSansCyrl300";
+    position: absolute;
+    left: 704px;
+    z-index: 2;
+top: 7882px;
+}
+.block7 h4 {
+    font-size: 35px;
+    z-index: 2;
+    position: absolute;
+    left: 374px;
+top: 8461px;
+    color: white;
+    font-family: "MuseoSansCyrl300";
+}
+
+
+
+.block8 h1{
+    position: absolute;
+    left: 78px;
+    top: 8877px;
+    color: rgb(0, 0, 0);
+    font-family: "MuseoSansCyrl700";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.block8 h2{
+    position: absolute;
+    left: 195px;
+top: 9047px;
+color: rgb(0, 0, 0);
+font-family: "MuseoSansCyrl100";
+font-size: 64px;
+font-weight: 250;
+line-height: 77px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.j1 {
+    top: 9334.13px;
+    position: absolute;
+}
+
+.elipse1 {
+
+position: absolute;
+width: 322px;
+height: 321px;
+left: 1258px;
+top: 10645px;
+}
+.elipse2 {
+    position: absolute;
+width: 328px;
+height: 327px;
+left: -82px;
+top: 10857px;
+}
+
+.f1 {
+    left: 86px;
+    position: absolute;
+    top: 11350.45px;
+}
+
+.footertxt {
+    font-family: "MuseoSansCyrl100";
+    position: absolute;
+    left: 658px;
+top: 11475px;
+font-size: 36px;
+font-weight: 200;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+color: rgb(255, 255, 255);
+}
+
+footer {
+    align-items: center;
+    display: flex;
+    background: rgb(0, 0, 0);
+    position: relative;
+width: 1440px;
+height: 189px;
+left: 0;
+top: 12616px;
+}
+
+.h {
+    margin-left: 50px;
+    position: relative;
+  
+    font-family: "MuseoSansCyrl100";
+color: white;
+font-size: 32px;
+font-weight: 250;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.h2o {
+    margin-left: 50px;
+    position: relative;
+  margin-top: 15px;
+    font-family: "MuseoSansCyrl100";
+color: white;
+font-size: 32px;
+font-weight: 250;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+}
+.footerapsn{
+    margin-top: 20px;
+  
+}
